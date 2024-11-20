@@ -22,4 +22,4 @@ suspected, charges may be filed against me without prior notice.”
 I did not complete this excersise last semester, so I am attempting this completely from scratch.
 
 ## Answer
-As long as the two graphs follow the rules for determining isomorphism there isn't anything that says that must be completely connected. For example, say that you have your two graphs $A$ and $B$, graph $A$ is comprised of 4 total nodes(named $e,f,g,h$), which connections between nodes $e$ and $f$,$g$ and $h$   .Graph $B$ is also comprised of 4 total nodes(
+As long as the two graphs follow the rules for determining isomorphism there isn't anything that says that must be completely connected. For example, say that you have your two graphs $A$ and $B$, graph $A$ is comprised of 4 total nodes(named $e,f,g,h$), which connections between nodes $e$ and $f$, $g$ and $h$   .Graph $B$ is also comprised of 4 total nodes(
